@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB08FOS1Zl-6uF2AWc_0RDVzRI_xDEOnHo',
+    apiKey: '',
     appId: '1:370144530594:web:a33c5c0c4447568e7487fb',
     messagingSenderId: '370144530594',
     projectId: 'todolistflutter-b7552',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBk22inFvWCXHU0byYxcg1iWKcbf52s6NU',
+    apiKey: '',
     appId: '1:370144530594:android:093112dd8596e40e7487fb',
     messagingSenderId: '370144530594',
     projectId: 'todolistflutter-b7552',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD2vqXTPiJVb5iel48aDO3JS9VRt7srk1A',
+    apiKey: '',
     appId: '1:370144530594:ios:4fe2f086bfdc68627487fb',
     messagingSenderId: '370144530594',
     projectId: 'todolistflutter-b7552',
